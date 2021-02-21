@@ -51,3 +51,4 @@ function* Inner() {
 - Maps?
 - Symbols?
 - Minify?
+- Web worker support!
